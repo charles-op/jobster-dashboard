@@ -92,7 +92,7 @@ function Register() {
             )
           }
         >
-          {isLoading ? "loading..." : "demo app"}
+          {isLoading ? "loading..." : "Test Account"}
         </button>
         <p>
           {values.isMember ? "Not a member yet?" : "Already a member?"}
