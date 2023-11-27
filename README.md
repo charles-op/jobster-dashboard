@@ -1,17 +1,3 @@
-# Jobster
-
-Project in Action - [Jobster](https://redux-toolkit-jobster.netlify.app/)
-
-#### React Course
-
-[My React Course](https://www.udemy.com/course/react-tutorial-and-projects-course/?referralCode=FEE6A921AF07E2563CEF)
-
-#### Support
-
-Find the App Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
-
-#### Run The App Locally
-
 ```sh
 npm run install && npm start
 ```
@@ -33,7 +19,7 @@ npx create-react-app@latest myApp
 ```
 
 - set editor/browser side by side
-- copy/paste assets and readme from complete project
+- copy/paste assets and readme from the complete project
 
 #### 1) Spring Cleaning
 
@@ -3645,5 +3631,6 @@ const SearchContainer = () => {
 };
 export default SearchContainer;
 ```
-#   j o b s t e r - d a s h b o a r d  
+#   j o b s t e r - d a s h b o a r d 
+ 
  
